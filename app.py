@@ -3,6 +3,7 @@ import datetime
 import sqlite3
 from openai import OpenAI
 
+"MAEW"
 app = Flask(__name__)
 
 DATABASE = 'data.db'
